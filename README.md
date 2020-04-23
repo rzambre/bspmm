@@ -23,6 +23,10 @@ the next fetched work unit corresponds to a different C tile, in
 which case the worker uses an MPI_Accumulate to update the C tile.
 A worker is a process in MPI everywhere and a thread in MPI+threads.
 
+This mini-app was written after discussions with Pavan Balaji, Min Si,
+and Shintaro Iwasaki from Argonne National Laboratory, and with
+Jeff Hammond from Intel.
+
 # Versions
 
 bspmm_single.c
