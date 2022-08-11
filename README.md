@@ -1,4 +1,4 @@
-# BSPMM
+# NWChem's BSPMM communication pattern
 
 Block sparse matrix multiplication (BSPMM) is the dominant
 cost in the CCSD and CCSD(T) quantum chemical many-body
